@@ -83,7 +83,7 @@ Grade: B
 
 
 ### Usage Instructions:
-- Replace `[Your Name](https://github.com/yourusername)` with your GitHub profile link.
+- Replace `[Dipanshi Yadav](https://github.com/Dipanshi98)` with your GitHub profile link.
 - Customize the "How to Run" section if you have specific instructions for compiling or running the Java program.
 - Update the "Example Usage" section with a sample input/output scenario if needed.
 
